@@ -1,1 +1,1 @@
-# webpack-vue_config
+# Webpack configuration for vue and etc. frontend projects
